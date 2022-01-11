@@ -1,0 +1,19 @@
+{
+  "Xtrain": "data/X_train.pkl",
+  "Xvalid": "data/X_valid.pkl",
+  "ytrain": "data/y_train.pkl",
+  "yvalid": "data/y_valid.pkl",
+  "ztrain": "data/Z_ethnicity_train.pkl",
+  "zmatch": "data/Z_age_train.pkl",
+  "zvalid": "data/Z_ethnicity_valid.pkl",
+  "method": "adv",
+  "num_classes": 7,
+  "hyperparams": {
+    "learning_rate": [1e-4],
+    "num_iters": [4000],
+    "num_nodes": [10],
+    "num_nodes_adv": [10],
+    "dropout_rate": [0.3],
+    "alpha": [10]
+  }
+}
