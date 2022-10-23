@@ -1,4 +1,12 @@
-## adversarial_training
+# Adversarial Learning for Bias Mitigation
+
+This repository hosts the version of the code used for the publication ["Algorithmic Fairness and Bias Mitigation for Clinical Machine Learning: Insights from Rapid COVID-19 Diagnosis by Adversarial Learning"](https://www.medrxiv.org/content/10.1101/2022.01.13.22268948v1).
+
+## Dependencies
+
+This will be updated soon.
+
+## Getting Started
 
 ### adversarial_training_framework.py
 
@@ -28,8 +36,13 @@ This file takes a JSON configuration file as input and uses the Adv_Model class 
   }
 }
 ```
-
 To train a model, use:
 ```
-run trainor.py "/path/to/JSONCONFIG"
+run trainer.py "/path/to/JSONCONFIG"
 ```
+
+## Citation
+
+If you found our work useful, please consider citing:
+
+Yang, J., Soltan, A. A., Yang, Y., & Clifton, D. A. (2022). Algorithmic Fairness and Bias Mitigation for Clinical Machine Learning: Insights from Rapid COVID-19 Diagnosis by Adversarial Learning. medRxiv.
