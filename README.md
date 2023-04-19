@@ -1,6 +1,6 @@
 # Adversarial Learning for Bias Mitigation
 
-This repository hosts the version of the code used for the publication ["Algorithmic Fairness and Bias Mitigation for Clinical Machine Learning: Insights from Rapid COVID-19 Diagnosis by Adversarial Learning"](https://www.medrxiv.org/content/10.1101/2022.01.13.22268948v1).
+This repository hosts the version of the code used for the publication ["Algorithmic Fairness and Bias Mitigation for Clinical Machine Learning: Insights from Rapid COVID-19 Diagnosis by Adversarial Learning"](https://www.nature.com/articles/s41746-023-00805-y).
 
 ## Dependencies
 
