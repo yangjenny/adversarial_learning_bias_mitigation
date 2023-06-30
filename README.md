@@ -45,4 +45,4 @@ run trainer.py "/path/to/JSONCONFIG"
 
 If you found our work useful, please consider citing:
 
-Yang, J., Soltan, A. A., Yang, Y., & Clifton, D. A. (2022). Algorithmic Fairness and Bias Mitigation for Clinical Machine Learning: Insights from Rapid COVID-19 Diagnosis by Adversarial Learning. medRxiv.
+Yang, J., Soltan, A. A., Eyre, D. W., Yang, Y., & Clifton, D. A. (2023). An adversarial training framework for mitigating algorithmic biases in clinical machine learning. NPJ Digital Medicine, 6(1), 55.
